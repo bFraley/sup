@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "supboard",
   "version": "1.0.0",
-  "description": "",
+  "description": "Short post anarchy",
   "repository": "",
   "scripts": {
     "start": "gulp",
